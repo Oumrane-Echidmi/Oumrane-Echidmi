@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=&fontSize=90" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFFF00&descAlign=54" width="100%"/>
 
   # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Know Who I'M
 
@@ -21,16 +21,13 @@
 
   <br>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true" alt="Oumrane's Github Stats" />
-  </p>
-
+  
 </div>
 
 ---
 
 ### 🚀 Professional Skillset
-
+<div>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -51,13 +48,13 @@
 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
+</div>
 ### 🛠️ Tools I use
-
+<div>
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-
+</div>
 ---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=100&section=footer"/>
