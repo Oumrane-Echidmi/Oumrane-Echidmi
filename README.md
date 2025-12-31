@@ -51,13 +51,14 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFFF00&descAlign=54&section=footer"/>
-</div>
 ### Studying in this moment:
 <div>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFFF00&descAlign=54&section=footer"/>
+</div>
+
